@@ -1,0 +1,72 @@
+/* Material Icons Font */
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.main_container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.first_main_section{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+}
+
+.teaching_texans{
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.teaching_texans > h2 {
+    font-family: 'Inria Sans';
+    font-style: light;
+    font-weight: 400;
+    font-size: 32px;
+    /* line-height: 38px; */
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.teaching_texans > h4 {
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.teaching_texans_text{
+    width: 78%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.stats{
+    padding-top: 40px;
+}
+
+.stats > h2 {
+    font-family: 'Inria Sans';
+    font-style: light;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+}
+

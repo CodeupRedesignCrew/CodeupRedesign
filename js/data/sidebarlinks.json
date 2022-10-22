@@ -1,0 +1,30 @@
+[
+    {
+        "title" : "Programs",
+        "to" : "/programs.html"
+    },
+    {
+        "title" : "Financing",
+        "to" : "/financing.html"
+    },
+    {
+        "title" :  "Events",
+        "to" : "/events.html"
+    },
+    {
+        "title" : "Military",
+        "to" : "/military.html"
+    },
+    {
+        "title" : "Campuses",
+        "to" : "/campuses.html"
+    },
+    {
+        "title" : "Hire",
+        "to" : "/hire.html"
+    },
+    {
+        "title" : "Resources",
+        "to" : "/resources.html"
+    }
+]

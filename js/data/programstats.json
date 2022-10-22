@@ -1,0 +1,20 @@
+[
+    {
+        "icon" : "assets/money_icon.png",
+        "numbers" : "$48,920",
+        "subheading_one" : "Median Starting Salary",
+        "subheading_two" : "Web Development 2020"
+    },
+    {
+        "icon" : "assets/brief_case_icon.png",
+        "numbers" : "$48,920",
+        "subheading_one" : "Get Hired Within 6 Months",
+        "subheading_two" : "Web Development 2020"
+    },
+    {
+        "icon" : "assets/money_icon.png",
+        "numbers" : "$48,920",
+        "subheading_one" : "Median Stating Salary",
+        "subheading_two" : "Data Science 2020"
+    }
+]
