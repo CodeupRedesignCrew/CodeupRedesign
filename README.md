@@ -2,6 +2,7 @@
 
 ## Table Of Contents:
 - [Description](#description)
+- [Branching Instructions](#branching-instructions)
 - [Contributors](#contributors)
 - [Deployment](#deployment)
 - [Reference](#reference)
