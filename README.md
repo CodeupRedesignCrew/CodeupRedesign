@@ -10,7 +10,6 @@
 - [License](#license)
 
 
-
 ## Description
 
 The site is a side project for current CodeUp Java Cohorts who are looking for additional practice and hands-on while providing additional visibility to contributing developers and their skills and expertise.  The Developers will be demonstrating their use of GitHub branching, as well as, HTML, CSS, JavaScrit along with Bootstrap and jQuery.
@@ -20,9 +19,12 @@ This readme document is in progress and will be expanded on as the project progr
 
 ## Branching Instructions
 1. Please create a branch before working on any features.
-2. Make sure you move your ticket for the feature you're working on from "Todo" to "In Progress" on the project board [which can be found here](https://github.com/orgs/CodeupRedesignCrew/projects/1).
-3. When completed move your ticket to the "Done" section.
-4. Make sure to assign yourself to the ticket, by clicking on the ticket on the board and clicking "Assignees" and checking the box next to your name.
+2. Name the branch something similar to the name of the feature you're working on. It makes it easier to merge everything together later.
+3. Make sure you move your ticket for the feature you're working on from "Todo" to "In Progress" on the project board [which can be found here](https://github.com/orgs/CodeupRedesignCrew/projects/1).
+4. When completed move your ticket to the "Done" section.
+5. If you work on an unassigned ticket, make sure to assign yourself to the ticket, by clicking on the ticket on the board and clicking "Assignees" and checking the box next to your name.
+
+###### Tickets Flow Example
 ![Boards Flow](assets/boardsflow.gif)
 
 ## Contributors
