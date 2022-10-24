@@ -28,7 +28,7 @@ GitHub Repo: https://github.com/CodeupRedesignCrew/CodeupRedesign
 
 GitHub Pages: Pending
 
-![picture](pending)
+![picture](pending image)
 
  
 ## Installation:
