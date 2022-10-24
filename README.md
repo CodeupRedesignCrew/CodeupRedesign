@@ -1,11 +1,13 @@
-# CodeupRedesign
+# The CodeupRedesign Crew Project
 
 ## Table Of Contents:
-- [Description](#Description)
-- [Contributors](#Contributors)
-- [Deployment](#Deployment)
-- [Installation](#Installation)
-- [License](#License)
+- [Preview](#preview)
+- [Description](#description)
+- [Contributors](#contributors)
+- [Deployment](#deployment)
+- [Installation](#installation)
+- [License](#license)
+
 
 
 ## Description
@@ -16,21 +18,26 @@ This readme document is in progress and will be expanded on as the project progr
 
 
 ## Contributors
-
-Lead Developer  -   Aldanis Vito    [LinkedIn]{https://www.linkedin.com/in/aldanisvigo/}
-Developers      -   John M Krsak    [LinkedIn]{https://www.linkedin.com/in/john-michael-krsak-474389254/}
-Developer       =   Maikel Karam    [LinkedIn]{https://www.linkedin.com/in/maikel-karam-38710a231/}
+- Project Manager - Ana Moreno [GitHub](https://github.com/al-moreno) | [LinkedIn](https://www.linkedin.com/in/ana-l-moreno/)
+- Lead Developer  -   Aldanis Vigo    [GitHub](https://github.com/aldanisvigo) | [LinkedIn](https://www.linkedin.com/in/aldanisvigo/)
+- Developer      -   John M Krsak    [GitHub](https://github.com/jmkrsak) | [LinkedIn](https://www.linkedin.com/in/john-michael-krsak-474389254/)
+- Developer      -   Maikel Karam    [GitHub]() | [LinkedIn](https://www.linkedin.com/in/maikel-karam-38710a231/) 
+- Developer - Alvin Mckenzie [GitHub](https://github.com/AlvinMckenzie) | [LinkedIn](https://www.linkedin.com/in/alvin-mckenzie-697324133/)
+- Developer - David Smith [GitHub](https://github.com/dgsmith7) | [LinedIn](https://www.linkedin.com/in/david-gail-smith-910a5946/)
+- Developer - Lorena Kell [GitHub](https://github.com/lorena-kell) | [LinkedIn](https://www.linkedin.com/in/lorenakell/)
 
 
 ## Deployment: 
 
 GitHub Repo: https://github.com/CodeupRedesignCrew/CodeupRedesign
 
-GitHub Pages: Pending
+GitHub Pages: https://codeupredesigncrew.github.io/CodeupRedesign/
 
-![picture](pending image)
 
+#### Reference:
+![Preview Image](assets/preview.png)
  
+ Design Template: [Open in Figma](https://www.figma.com/file/XohcHhwqO7sbgRSnJf8ZXt/CodeupWebsiteRedesign?node-id=0%3A1)
 ## Installation:
 1.  No installation if needed 
 2.  You may view code through access of GitHub, link provided above.
