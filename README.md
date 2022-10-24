@@ -1,10 +1,10 @@
 # The CodeupRedesign Crew Project
 
 ## Table Of Contents:
-- [Preview](#preview)
 - [Description](#description)
 - [Contributors](#contributors)
 - [Deployment](#deployment)
+- [Reference](#reference)
 - [Installation](#installation)
 - [License](#license)
 
@@ -43,7 +43,7 @@ GitHub Repo: https://github.com/CodeupRedesignCrew/CodeupRedesign
 GitHub Pages: https://codeupredesigncrew.github.io/CodeupRedesign/
 
 
-#### Reference:
+## Reference:
 ![Preview Image](assets/preview.png)
  
  Design Template: [Open in Figma](https://www.figma.com/file/XohcHhwqO7sbgRSnJf8ZXt/CodeupWebsiteRedesign?node-id=0%3A1)
