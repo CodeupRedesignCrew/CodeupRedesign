@@ -5,36 +5,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 body {
-    padding: 0;
-    margin: 0;
-}
-
-.main_container{
-    display: grid;
-    grid-template-columns: auto auto;
-}
-
-.first_main_section{
-    display: grid;
-    grid-template-columns: 6fr 6fr;
-}
-
-.teaching_texans{
-    padding-top: 40px;
-    display: flex;
-    flex-direction: column;
-    padding: 30px;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
 .teaching_texans > h2 {
     font-family: 'Inria Sans';
     font-style: light;
     font-weight: 400;
-    font-size: 32px;
-    /* line-height: 38px; */
-    padding: 0;
+    font-size: 32px; 
+    line-height: 38px;
+    padding: 0; 
     margin-bottom: 0;
+    margin-top: 11px;
 }
+ 
 
 .teaching_texans > h4 {
     padding: 0;
@@ -68,5 +53,37 @@ body {
     font-weight: 400;
     font-size: 32px;
     line-height: 38px;
+} 
+
+.stats_number{
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #78A04A;
 }
 
+.stats_subheading_one{
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: -0.07em;
+}
+
+.stats_subheading_two{
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: -0.07em;
+
+    color: #4D5F33;
+}
