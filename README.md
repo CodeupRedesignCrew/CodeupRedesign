@@ -27,16 +27,12 @@ This readme document is in progress and will be expanded on as the project progr
 ###### Tickets Flow Example
 ![Boards Flow](assets/boardsflow.gif)
 
-## Contributors
+## Contributors - Your name will be added to the list when you contribute to the project
 - Project Manager - Ana Moreno [GitHub](https://github.com/al-moreno) | [LinkedIn](https://www.linkedin.com/in/ana-l-moreno/)
 - Lead Developer  -   Aldanis Vigo    [GitHub](https://github.com/aldanisvigo) | [LinkedIn](https://www.linkedin.com/in/aldanisvigo/)
-- Developer      -   Matt Wiram [GitHub](https://github.com/Matt-Wiram) | [LinkedIn](https://www.linkedin.com/in/matthew-wiram-9a6a95242/)
-- Developer      -   Hector E. Perez [GitHub](https://github.com/Hector-Perez-CodeUp) | [LinkedIn](https://www.linkedin.com/in/hector-e-perez/)
 - Developer      -   Maikel Karam    [GitHub]() | [LinkedIn](https://www.linkedin.com/in/maikel-karam-38710a231/) 
 - Developer      -   John M Krsak    [GitHub](https://github.com/jmkrsak) | [LinkedIn](https://www.linkedin.com/in/john-michael-krsak-474389254/)
-- Developer - Alvin Mckenzie [GitHub](https://github.com/AlvinMckenzie) | [LinkedIn](https://www.linkedin.com/in/alvin-mckenzie-697324133/)
-- Developer - David Smith [GitHub](https://github.com/dgsmith7) | [LinedIn](https://www.linkedin.com/in/david-gail-smith-910a5946/)
-- Developer - Lorena Kell [GitHub](https://github.com/lorena-kell) | [LinkedIn](https://www.linkedin.com/in/lorenakell/)
+
 
 
 ## Deployment: 
