@@ -1,3 +1,26 @@
+.beyond-bootcamp-section {
+    background-color: #d8e1e2;
+}
+.beyond-title {
+    font-family: 'Inria Sans';
+    font-style: light;
+    font-weight: 400;
+    font-size: 32px;
+    padding: 0;
+    margin-bottom: 0;
+    color: #4D5F33;
+}
+.green-text {
+    color: #78A04A;
+}
+.beyond-bootcamp-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 10px;
+}
 .request-info-section {
     background-color: #78A04A;
     color: white;
@@ -19,7 +42,7 @@
     line-height: 24px;
     margin-left: 10px;
 }
-#request-info-btn {
+#request-info-btn, #beyond-bootcamp-btn {
     width: fit-content;
     padding-left: 30px;
     padding-right: 30px;
