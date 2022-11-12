@@ -1,3 +1,41 @@
+.request-info-section {
+    background-color: #78A04A;
+    color: white;
+}
+.info-title {
+
+    font-family: 'Inria Sans';
+    font-style: light;
+    font-weight: 400;
+    font-size: 32px;
+    padding: 0;
+    margin-bottom: 0;
+}
+.request-info-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 10px;
+}
+#request-info-btn {
+    width: fit-content;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: #4D5F33;
+    border-radius: 15px;
+    font-family: 'Inter';
+    height: 105px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    border: none;
+    max-height: 65px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
 @media (max-width: 767px) {
     .second_section {
         display: flex;
