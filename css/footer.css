@@ -1,8 +1,9 @@
 .footer{
-    height: 100%;
-    max-height: 497px;
+    height: fit-content;
+    max-height: fit-content;
     width: 100%;
-    overflow: hidden;
+    /* overflow-x: hidden;
+    overflow-y: show; */
     background: linear-gradient(180deg, #323531 0%, #78A04A 100%);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
@@ -14,8 +15,26 @@
     font-size: 48px;
     line-height: 58px;
     text-align: center;
-
     color: #A1B7A2;
+}
+
+.footer-heading{
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #A1B7A2;
+}
+
+.footer-list{
+    list-style: none;
+}
+
+.footer-list > li > a {
+    position: relative;
+    left: 20px;
+    text-decoration: none;
 }
 
 .phone_number{
@@ -30,11 +49,33 @@
 }
 
 .codeup_ducky{
-    height: 100%;
+    height: 200px;
     background: url('/assets/codeupducky.png');
-    background-size: 30% 90%;
+    /* background-size: 30% 90%; */
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 25% 70%;
+    background-position: 50% 10px;
+}
+
+.footer-apply-btn{
+    background: #FFC20B;
+    border-radius: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    color: #4D5F33;
+    /* margin: auto; */
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    border: none;
+    max-height: 65px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 
