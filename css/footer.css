@@ -49,9 +49,8 @@
 }
 
 .codeup_ducky{
-    height: fit;
+    height: 300px;
     background: url('/CodeupRedesign/assets/codeupducky.png');
-    /* background-size: 30% 90%; */
     background-repeat: no-repeat;
     background-position: center;
     background-size: 40% 100%;
