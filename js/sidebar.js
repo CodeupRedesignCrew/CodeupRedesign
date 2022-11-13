@@ -9,7 +9,7 @@ fetch('js/data/sidebarlinks.json').then(async req=>{
     links.forEach(link=>{
         let linkElement = document.createElement('a')
         linkElement.innerText = link.title
-        linkElement.href = link.to
+        linkElement.href = window.location.hostname === 'localhost' ? link.to : '/CodeupRedesign' + link.to
         linkElement.classList.add('sidebar_link')
         sidebarContainer.insertBefore(linkElement,startNowButton)
         gridTemplateRows += ' 40px'
