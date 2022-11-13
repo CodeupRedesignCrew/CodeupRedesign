@@ -7,7 +7,7 @@ fetch('js/data/headerlinks.json').then(async req=>{
     links.forEach(link=>{
         let linkElement = document.createElement('a')
         linkElement.innerText = link.title
-        linkElement.href = link.to
+        linkElement.href = window.location.hostname === 'localhost' ? link.to : '/CodeupRedesign' + link.to
         linkElement.classList.add('nav_link')
         navLinksContainer.appendChild(linkElement)
     })
