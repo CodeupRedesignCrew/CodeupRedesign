@@ -49,12 +49,12 @@
 }
 
 .codeup_ducky{
-    height: 200px;
-    background: url('/CodeupRedesign/assets/codeupducky.png');
+    height: fit;
+    background: url('CodeupRedesign/assets/codeupducky.png');
     /* background-size: 30% 90%; */
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 25% 70%;
+    background-size: 40% 100%;
     background-position: 50% 10px;
 }
 
@@ -90,7 +90,8 @@
     }
 
     .codeup_ducky{ 
-        background-size: 25% 70%;
+        height: fit;
+        background-size: 40% 70%;
         background-position: 50% 10px;
     }
 }
