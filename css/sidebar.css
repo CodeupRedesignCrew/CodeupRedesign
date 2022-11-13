@@ -4,6 +4,18 @@
     border-radius: 0px 30px 0px 0px;
 }
 
+.row>* {
+    padding-right: 0;
+}
+
+#rightsidebar {
+    background-image: url("/assets/Main Image.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    border-radius: 30px 0px 0px 0px;
+}
+
  .sidebar_link{
     margin-top: 30px;
     text-align: center;
@@ -76,10 +88,23 @@
         margin-bottom: 5px;
         margin-top: 5px;
     }
+
+    .row>* {
+        padding-right: 0;
+    }
+
+    #rightsidebar {
+        background-image: url("/assets/Main Image.png");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        margin-top: 10px;
+        border-radius: 30px 0px 0px 0px;
+    }
 }
 
 @media only screen and (max-width: 450px){
     .sidebar_link{
         font-size: x-small;
     }
+
 }
