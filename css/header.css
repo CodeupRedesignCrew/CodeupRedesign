@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /* Desktop Screens */
+body {
+    background-color: #d8e1e2;
+
+}
 
 textarea:focus, input:focus{ 
     border: none; 
@@ -128,6 +132,10 @@ textarea:focus, input:focus{
     color: black;
     cursor: pointer;
     transform: scale(1.1);
+}
+
+.card {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 
