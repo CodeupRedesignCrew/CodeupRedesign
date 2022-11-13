@@ -1,0 +1,36 @@
+.footer{
+    height: 450px;
+    width: 100%;
+    background: linear-gradient(180deg, #323531 0%, #78A04A 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.have_a_question{
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+
+    color: #A1B7A2;
+}
+
+.phone_number{
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 115px;
+    text-align: center;
+
+    color: #A8D0B8;
+}
+
+.codeup_ducky{
+    height: 100%;
+    background: url('/assets/codeupducky.png');
+    background-size: 30% 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
