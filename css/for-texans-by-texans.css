@@ -69,13 +69,14 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        width: fit-content;
     }
     .texas-img {
-        width: auto;
+        width: 100%;
     }
     .for-texans-by-texans {
-        margin-right: 15%;
-        margin-left: 15%;
+        margin-right: 0%;
+        margin-left: 0%;
         margin-bottom: 20px;
     }
     .for-texans-by-texans > h1, .awards-and-rec > h1 {
@@ -152,6 +153,7 @@
         line-height: 24px;
     }
 }
+
 @media (min-width: 768px) {
     .second_section {
         margin-top: 10px;
@@ -166,10 +168,7 @@
         max-width: 350px;
         height: auto;
     }
-    .texas-img {
-    }
-    .for-texans-by-texans {
-    }
+
     .for-texans-by-texans > h1, .awards-and-rec > h1 {
         color: #4D5F33;
         text-align: center;

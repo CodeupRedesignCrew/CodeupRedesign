@@ -53,7 +53,7 @@
     cursor: pointer;
 } 
 
-@media only screen and (max-width: 828px){
+@media only screen and (max-width: 992px){
     .sidebar{
         width: 100vw !important;
         display: flex !important;
